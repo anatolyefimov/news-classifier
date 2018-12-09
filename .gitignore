@@ -1,0 +1,3 @@
+/src/*.txt
+/src/.ipynb_checkpoints
+/src/__pycache__
